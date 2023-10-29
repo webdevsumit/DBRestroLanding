@@ -57,6 +57,11 @@
     width: 20px;
 }
 
+.login-link{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
 @media only screen and (max-width: 600px) {
     .custom-logo-fix {
         transform: scale(2) translateX(14px);
