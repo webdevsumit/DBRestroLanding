@@ -146,7 +146,6 @@ strong {
     clear: both;
     width: 100%;
     height: auto;
-    padding: 60px 7.5% 60px;
     display: block;
 }
 
@@ -212,7 +211,7 @@ strong {
 }
 
 .plan-tier ul li {
-    font-size: 1.25em;
+    font-size: 1em;
     padding: 18px 0;
     color: rgba(39, 65, 90, 0.9);
     border-bottom: 2px solid #e7f2f0;
@@ -223,7 +222,7 @@ sup {
 }
 
 .plan-tier .plan-price {
-    font-size: 5em;
+    font-size: 2em;
     font-weight: 300;
     letter-spacing: -3px;
 }
@@ -253,11 +252,6 @@ s,
 strike,
 del {
     text-decoration: line-through;
-}
-
-.layer {
-    padding-top: 96px;
-    padding-bottom: 96px;
 }
 
 .plan-tier.callout h6 {
